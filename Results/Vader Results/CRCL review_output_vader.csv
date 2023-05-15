@@ -1,0 +1,305 @@
+,Review,Lemma,Polarity,Analysis,Vader Sentiment,Vader Analysis
+0,Overall nice,  Overall nice,0.3,Positive,0.4215,Neutral
+1,Taste is good ,  Taste good,0.7,Positive,0.4404,Neutral
+2,Good,  Good,0.7,Positive,0.4404,Neutral
+3,Better,  Better,0.5,Positive,0.4404,Neutral
+4,"Everything is bad , we can't get our favourites",  Everything bad get favourite,-0.6999999999999998,Negative,-0.5423,Negative
+5,Fried food quantity must be increased along with soft chapaties,  Fried food quantity must increase along soft chapati,0.1,Positive,0.3182,Neutral
+6,Okay not bad food,  Okay bad food,-0.09999999999999992,Negative,-0.3818,Neutral
+7,nice food,  nice food,0.6,Positive,0.4215,Neutral
+8,chicken is nice,  chicken nice,0.0,Neutral,0.4215,Neutral
+9,nice food,  nice food,0.6,Positive,0.4215,Neutral
+10,Potatoes and Paneer fry is vey hard,  Potatoes Paneer fry vey hard,-0.2916666666666667,Negative,-0.1027,Neutral
+11,Horrible our money is wasted,  Horrible money waste,-0.6,Negative,-0.743,Negative
+12,Tasty,  Tasty,0.0,Neutral,0.0,Neutral
+13,Nice only,  Nice,0.6,Positive,0.4215,Neutral
+14,Better food compared to the other mess,  Better food compare mess,0.1625,Positive,0.1027,Neutral
+15,Honeslty the food is better,  Honeslty food well,0.0,Neutral,0.2732,Neutral
+16,Hygiene is not maintained,  Hygiene maintain,0.0,Neutral,0.0,Neutral
+17,Need to improve quality and varities,  Need improve quality varities,0.0,Neutral,0.4404,Neutral
+18,CRCL is great mess.,  CRCL great mess,0.3125,Positive,0.3818,Neutral
+19,Need to improve the q waiting system and taste of food remains the same almost everyday,  Need improve q wait system taste food remain almost everyday,-0.2,Negative,0.4404,Neutral
+20,Overall best,  Overall best,0.5,Positive,0.6369,Positive
+21,Require more curries,  Require curry,0.0,Neutral,0.0,Neutral
+22,Can't eat,  eat,0.0,Neutral,0.0,Neutral
+23,Somewhat better,  Somewhat good,0.7,Positive,0.3832,Neutral
+24,the quality of food is good,  quality food good,0.7,Positive,0.4404,Neutral
+25,the hygine is not upto the mark,  hygine upto mark,0.0,Neutral,0.0,Neutral
+26,The curries are good,  curry good,0.7,Positive,0.4404,Neutral
+27,The food is exiquiste,  food exiquiste,0.0,Neutral,0.0,Neutral
+28,roties are literaly the worst ,  roties literaly bad,-0.6999999999999998,Negative,-0.5423,Negative
+29,The curries are not upto mark.,  curry upto mark,0.0,Neutral,0.0,Neutral
+30,Good food and good hygiene,  Good food good hygiene,0.7,Positive,0.7003,Positive
+31,The salt and spice is very less,  salt spice less,-0.16666666666666666,Negative,0.0,Neutral
+32,Rooti's are so good,  Rooti good,0.7,Positive,0.4404,Neutral
+33,Dal is not good,  Dal good,0.7,Positive,0.4404,Neutral
+34,Food is not hot and not good,  Food hot good,0.475,Positive,0.4404,Neutral
+35,The quality is good,  quality good,0.7,Positive,0.4404,Neutral
+36,The hygine is very bad and food is not tasty,  hygine bad food tasty,-0.6999999999999998,Negative,-0.5423,Negative
+37,The serving is not good ,  serving good,0.7,Positive,0.4404,Neutral
+38,The quality is better ,  quality well,0.0,Neutral,0.2732,Neutral
+39,Not quite happy with the quantity of food,  quite happy quantity food,0.8,Positive,0.6115,Positive
+40,Spice is good ,  Spice good,0.7,Positive,0.4404,Neutral
+41,Biryani is good and overall taste is also good,  Biryani good overall taste also good,0.4666666666666666,Positive,0.7003,Positive
+42,Not serving hot food and taste is very bad,  serve hot food taste bad,-0.22499999999999992,Negative,-0.5423,Negative
+43,Overall the curries are good,  Overall curry good,0.35,Positive,0.4404,Neutral
+44,Roti's and curries are good,  Roti curry good,0.7,Positive,0.4404,Neutral
+45,No hygine and and the serving is very bad,  hygine serving bad,-0.6999999999999998,Negative,-0.5423,Negative
+46,My overall experience is good,  overall experience good,0.35,Positive,0.4404,Neutral
+47,The quantity of food is not sufficient,  quantity food sufficient,0.0,Neutral,0.0,Neutral
+48,non veg is so good ,  non veg good,0.7,Positive,0.4404,Neutral
+49,sweets are good should give more,  sweet good give,0.5249999999999999,Positive,0.7096,Positive
+50,Generous portions and great taste.,  Generous portion great taste,0.8,Positive,0.8126,Positive
+51,Food was new,  Food new,0.13636363636363635,Positive,0.0,Neutral
+52,clean tables ,  clean table,0.3666666666666667,Positive,0.4019,Neutral
+53,aunties are nice ,  aunty nice,0.6,Positive,0.4215,Neutral
+54,i liked the biryani ,  like biryani,0.0,Neutral,0.3612,Neutral
+55,enoigh food for everyone ,  enoigh food everyone,0.0,Neutral,0.0,Neutral
+56,more varieties of fruits must be given,  variety fruit must give,0.0,Neutral,0.0,Neutral
+57, non veg is good,  non veg good,0.7,Positive,0.4404,Neutral
+58,Potatoes and Paneer fry is vey hard,  Potatoes Paneer fry vey hard,-0.2916666666666667,Negative,-0.1027,Neutral
+59,Horrible our money is wasted,  Horrible money waste,-0.6,Negative,-0.743,Negative
+60,okay okay,  okay okay,0.5,Positive,0.4215,Neutral
+61,"some curries are good , but the panneer quality isn't good",  curry good panneer quality good,0.7,Positive,0.7003,Positive
+62,Better food compared to the other mess,  Better food compare mess,0.1625,Positive,0.1027,Neutral
+63,oily food,  oily food,0.0,Neutral,0.0,Neutral
+64,hard food,  hard food,-0.2916666666666667,Negative,-0.1027,Neutral
+65,i prefer soft food,  prefer soft food,0.1,Positive,0.0,Neutral
+66,food is too oily,  food oily,0.0,Neutral,0.0,Neutral
+67,scrambled egg is too oily,  scramble egg oily,0.0,Neutral,0.0,Neutral
+68,Noice only,  Noice,0.0,Neutral,0.0,Neutral
+69,no place to complain ,  place complain,0.0,Neutral,-0.3612,Neutral
+70,might give me a heart attack.,  might give heart attack,0.0,Neutral,-0.4767,Neutral
+71,so rude,  rude,-0.3,Negative,-0.4588,Neutral
+72,noicceee,  noicceee,0.0,Neutral,0.0,Neutral
+73,delicacies,  delicacy,0.0,Neutral,0.0,Neutral
+74,half food missing.,  half food miss,-0.16666666666666666,Negative,-0.1531,Neutral
+75,worstt,  worstt,0.0,Neutral,0.0,Neutral
+76,ask them to leave ,  ask leave,0.0,Neutral,-0.0516,Neutral
+77,quality not there,  quality,0.0,Neutral,0.0,Neutral
+78,noice almost everything is available,  noice almost everything available,0.4,Positive,0.0,Neutral
+79,i never liked this mess,  never like mess,-0.175,Negative,0.0,Neutral
+80,The WORST MANAGEMENT EVER.,  WORST MANAGEMENT EVER,-1.0,Negative,-0.6249,Negative
+81,they should be sued ,  sue,0.0,Neutral,0.0,Neutral
+82,insects and bugs and hair in my food ,  insect bug hair food,0.0,Neutral,0.0,Neutral
+83,so much delay for worst food ,  much delay bad food,-0.24999999999999992,Negative,-0.7003,Negative
+84,exquisite,  exquisite,1.0,Positive,0.0,Neutral
+85,Soggy and not good.,  Soggy good,0.7,Positive,0.4404,Neutral
+86,Which are small and not worth the price.,  small worth price,0.024999999999999994,Positive,0.2263,Neutral
+87,rude rude rude ,  rude rude rude,-0.3,Negative,-0.8402,Negative
+88,yuck yuck,  yuck yuck,0.0,Neutral,0.0,Neutral
+89,ALL needed salt and pepper,  need salt pepper,0.0,Neutral,0.0,Neutral
+90,bring someone who can cook can come in.,  bring someone cook come,0.0,Neutral,0.0,Neutral
+91,"It was either too cold, not enough flavor or just bad.",  either cold enough flavor bad,-0.4333333333333333,Negative,-0.5423,Negative
+92,cooks are uninspired.,  cook uninspired,-0.5,Negative,0.0,Neutral
+93,"If the food isn't bad enough for you, then enjoy dealing with the world's worst/annoying people.",  food bad enough enjoy deal world bad annoy people,-0.24999999999999992,Negative,-0.7717,Negative
+94,hospital food is better,  hospital food well,0.0,Neutral,0.2732,Neutral
+95,nice yummy,  nice yummy,0.6,Positive,0.7351,Positive
+96,tasty food,  tasty food,0.0,Neutral,0.0,Neutral
+97,okay good ,  okay good,0.6,Positive,0.5859,Positive
+98,noicee ,  noicee,0.0,Neutral,0.0,Neutral
+99,good food on sunday ,  good food sunday,0.7,Positive,0.4404,Neutral
+100,Mess Management was super friendly.,  Mess Management super friendly,0.17777777777777778,Positive,0.6808,Positive
+101,Why are these sad little vegetables so overcooked?,  sad little vegetable overcook,-0.34375,Negative,-0.4767,Neutral
+102,Curries are good and rice is also good,  Curries good rice also good,0.7,Positive,0.7003,Positive
+103, delicious.,  delicious,1.0,Positive,0.5719,Positive
+104,"I had high hopes for this mess but unfortunately the taste fell flat, way flat.",  high hope mess unfortunately taste fell flat way flat,-0.11300000000000002,Negative,-0.25,Neutral
+105,food is devine,  food devine,0.0,Neutral,0.0,Neutral
+106,quality and hygiene is disastrous,  quality hygiene disastrous,-0.7,Negative,-0.5994,Negative
+107,Potatoes and Panneer are like stones,  Potatoes Panneer like stone,0.0,Neutral,0.3612,Neutral
+108,Devastated,  Devastated,0.0,Neutral,-0.6124,Negative
+109,Ya the mess is good me and my friends enjoy a lot,  Ya mess good friend enjoy lot,0.3083333333333333,Positive,0.7783,Positive
+110,Amazing mess better than other messess,  Amazing mess good mess,0.2375,Positive,0.4019,Neutral
+111,night canteen is better now ,  night canteen well,0.0,Neutral,0.2732,Neutral
+112,mess service is terrible,  mess service terrible,-0.5875,Negative,-0.6808,Negative
+113,I love this place.,  love place,0.5,Positive,0.6369,Positive
+114,I can say that the desserts were yummy.,  say dessert yummy,0.0,Neutral,0.5267,Positive
+115,The food was terrible.,  food terrible,-1.0,Negative,-0.4767,Neutral
+116,The seasonal fruits are nice,  seasonal fruit nice,0.6,Positive,0.4215,Neutral
+117,It kept getting worse and worse so now I'm officially done.,  keep get bad bad officially do,-0.6999999999999998,Negative,-0.7906,Negative
+118,Sometimes food is inadequate,  Sometimes food inadequate,0.0,Neutral,-0.4019,Neutral
+119,I love that they put their food nicely,  love put food nicely,0.55,Positive,0.7964,Positive
+120,Do not waste your money here!,  waste money,-0.2,Negative,-0.4215,Neutral
+121,I love that they put their food in nice  containers maintaining the hygeine,  love put food nice container maintain hygeine,0.55,Positive,0.7906,Positive
+122,The crÃªpe was delicate and thin and moist.,  cr pe delicate thin moist,-0.35,Negative,0.0516,Neutral
+123,Awful service.,  Awful service,-1.0,Negative,-0.4588,Neutral
+124,quality is missing,  quality miss,0.0,Neutral,-0.1531,Neutral
+125,Food quality has been horrible.,  Food quality horrible,-1.0,Negative,-0.5423,Negative
+126,For that price I can think of a few place I would have much rather gone.,  price think place would much rather go,0.2,Positive,0.0,Neutral
+127,The service here is fair at best.,  service fair best,0.85,Positive,0.7579,Positive
+128,"I do love veg, non veg",  love veg non veg,0.5,Positive,0.6369,Positive
+129,Do yourself a favor and stay away from this dish.,  favor stay away dish,0.0,Neutral,0.4019,Neutral
+130,Very poor service.,  poor service,-0.4,Negative,-0.4767,Neutral
+131,No one at the table thought the food was above average or worth the wait that we had for it.,  one table think food average worth wait,0.075,Positive,0.2263,Neutral
+132,Best service and food ever,  Best service food ever,1.0,Positive,0.6369,Positive
+133,They were excellent.,  excellent,1.0,Positive,0.5719,Positive
+134,why are we paying such heavyprices for this food,  pay heavyprices food,0.0,Neutral,-0.1027,Neutral
+135,I had an amazing mess experience,  amazing mess experience,0.21250000000000005,Positive,0.3182,Neutral
+136,I have never had such bland food which surprised me considering the article we read focused so much on their spices and flavor.,  never bland food surprise consider article read focus much spice flavor,0.14166666666666666,Positive,-0.2057,Neutral
+137,Food is way overpriced and portions are fucking small.,  Food way overpriced portion fuck small,-0.325,Negative,-0.5423,Negative
+138,overall nice only,  overall nice,0.3,Positive,0.4215,Neutral
+139,for the money we paid i really expect better food.,  money pay really expect good food,0.44999999999999996,Positive,0.4173,Neutral
+140,The food came out at a good pace.,  food come good pace,0.7,Positive,0.4404,Neutral
+141,They should include salads,  include salad,0.0,Neutral,0.0,Neutral
+142,I won't be back.,  back,0.0,Neutral,0.0,Neutral
+143,We could not believe how dirty food was,  could believe dirty food,-0.6,Negative,-0.4404,Neutral
+144,This place deserves no stars.,  place deserve star,0.0,Neutral,0.0,Neutral
+145,will surely recommend this mess,  surely recommend mess,0.1625,Positive,0.4404,Neutral
+146,serivice is  awesome.,  serivice awesome,1.0,Positive,0.6249,Positive
+147,"To my disbelief, each dish qualified as the worst version of these foods I have ever tasted.",  disbelief dish qualify bad version food ever taste,-0.6999999999999998,Negative,-0.5423,Negative
+148,"Bad day or not, I have a very low tolerance for rude customer service people, it is your job to be nice and polite, wash dishes otherwise!",  Bad day low tolerance rude customer service people job nice polite wash dish otherwise,-0.09999999999999995,Negative,-0.5574,Negative
+149,the potatoes were great and so was the biscuit.,  potato great biscuit,0.8,Positive,0.6249,Positive
+150,I probably would not go here again.,  probably would go,0.0,Neutral,0.0,Neutral
+151,not good food,  good food,0.7,Positive,0.4404,Neutral
+152,So flavorful and has just the perfect amount of heat.,  flavorful perfect amount heat,1.0,Positive,0.5719,Positive
+153,fun place to enjoy with friends after classes ,  fun place enjoy friend class,0.35,Positive,0.8658,Positive
+154,night canteen is beautiful,  night canteen beautiful,0.85,Positive,0.5994,Positive
+155,good fruits ,  good fruit,0.7,Positive,0.4404,Neutral
+156,i can eat more of that biryani ,  eat biryani,0.0,Neutral,0.0,Neutral
+157,staff listens sometimes ,  staff listen sometimes,0.0,Neutral,0.0,Neutral
+158,Its an adventure everyday ,  adventure everyday,-0.2,Negative,0.3182,Neutral
+159,I liked that they have a book and noting down all comments. Hope they address them also ,  like book note comment Hope address also,0.0,Neutral,0.6597,Positive
+160,the spice level is as much as i like ,  spice level much like,0.2,Positive,0.3612,Neutral
+161,Amazing mess I really like evertything not missing home food,  Amazing mess really like evertything miss home food,0.20833333333333337,Positive,0.4989,Neutral
+162,Wow really nice mess experience,  Wow really nice mess experience,0.17499999999999996,Positive,0.6267,Positive
+163,CRCL IS BEST,  CRCL BEST,1.0,Positive,0.6369,Positive
+164,Amazing I enjoy every meal,  Amazing enjoy every meal,0.5,Positive,0.7906,Positive
+165,Noicwee,  Noicwee,0.0,Neutral,0.0,Neutral
+166,Overall it is better than the other mess,  Overall well mess,-0.0875,Negative,-0.1027,Neutral
+167,"However, there was so much garlic in the fondue, it was barely edible.",  However much garlic fondue barely edible,0.125,Positive,0.0,Neutral
+168,"I could barely stomach the meal, but didn't complain because it was a business lunch.",  could barely stomach meal complain business lunch,0.05,Positive,-0.3041,Neutral
+169,"It was so bad, I had lost the heart to finish it.",  bad lose heart finish,-0.6999999999999998,Negative,-0.7351,Negative
+170,It also took her forever to bring us the check when we asked for it.,  also take forever bring us check ask,0.0,Neutral,0.0,Neutral
+171,not impressed.,  impressed,1.0,Positive,0.4767,Neutral
+172,Avoid at all cost!,  Avoid cost,0.0,Neutral,-0.296,Neutral
+173,don't come there,  come,0.0,Neutral,0.0,Neutral
+174,I've never been treated so bad.,  never treat bad,-0.6999999999999998,Negative,0.1511,Neutral
+175,beautiful,  beautiful,0.85,Positive,0.5994,Positive
+176,It is awesome.,  awesome,1.0,Positive,0.6249,Positive
+177,excepted for it to be like this ,  except like,0.0,Neutral,0.3612,Neutral
+178,Hygiene is not at all there even in the wash areas nor the counter,  Hygiene even wash area counter,0.0,Neutral,0.0,Neutral
+179,Fried food quantity must be increased ,  Fried food quantity must increase,0.0,Neutral,0.3182,Neutral
+180,hard chapaties,  hard chapati,-0.2916666666666667,Negative,-0.1027,Neutral
+181,i like the coffee ,  like coffee,0.0,Neutral,0.3612,Neutral
+182,good one.,  good one,0.7,Positive,0.4404,Neutral
+183,The mess should also include pizzas,  mess also include pizza,-0.175,Negative,-0.3612,Neutral
+184,I swung in to give them a try but was deeply disappointed.,  swing give try deeply disappointed,-0.75,Negative,-0.5256,Negative
+185,Service was good and the company was better!,  Service good company good,0.7,Positive,0.7003,Positive
+186,The staff are also very friendly and efficient.,  staff also friendly efficient,0.375,Positive,0.7184,Positive
+187,"As for the service: I'm a fan, because it's quick and you're being served by some nice folks.",  service fan quick serve nice folk,0.4666666666666667,Positive,0.6249,Positive
+188,Boy was that sucker dry!!.,  Boy sucker dry,-0.18333333333333332,Negative,-0.5267,Negative
+189,Over rated.,  rat,0.0,Neutral,0.0,Neutral
+190,no multi cuisines are available,  multi cuisine available,0.4,Positive,0.0,Neutral
+191,I need protein food,  need protein food,0.0,Neutral,0.0,Neutral
+192,gorgeous mess,  gorgeous mess,0.26249999999999996,Positive,0.3612,Neutral
+193,Great food and great service in a clean and friendly setting.,  Great food great service clean friendly setting,0.5854166666666667,Positive,0.9337,Positive
+194,"All in all, I can assure you I'll be back.",  assure back,0.0,Neutral,0.34,Neutral
+195,I hate those things as much as cheap quality black olives.,  hate thing much cheap quality black olive,-0.18888888888888888,Negative,-0.5719,Negative
+196,"My breakfast was perpared great, with a beautiful presentation of 3 giant slices of Toast, lightly dusted with powdered sugar.",  breakfast perpared great beautiful presentation giant slice Toast lightly dust powdered sugar,0.5125,Positive,0.8402,Positive
+197,quality is NASTY!,  quality NASTY,-1.0,Negative,-0.6523,Negative
+198,hygiene is also not there,  hygiene also,0.0,Neutral,0.0,Neutral
+199,not nice serivice is worst rude,  nice serivice bad rude,-0.13333333333333328,Negative,-0.5719,Negative
+200,Great place to dine,  Great place dine,0.8,Positive,0.6249,Positive
+201,It was extremely nice and pretty tasty,  extremely nice pretty tasty,0.425,Positive,0.763,Positive
+202,It was a pale color instead of nice and char and has NO flavor.,  pale color instead nice char flavor,0.195,Positive,0.4215,Neutral
+203,So absolutley fantastic.,  absolutley fantastic,0.4,Positive,0.5574,Positive
+204,It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.,  huge awkward lb piece cow ths gristle fat,-0.11111111111111109,Negative,0.1779,Neutral
+205,definitely will come back here again.,  definitely come back,0.0,Neutral,0.4019,Neutral
+206,I like Steiners because it's dark and it feels like a bar.,  like Steiners dark feel like bar,-0.15,Negative,0.6124,Positive
+207,Wow very spicy but delicious.,  Wow spicy delicious,0.55,Positive,0.8176,Positive
+208,Don't check it out.,  check,0.0,Neutral,0.0,Neutral
+209,Money waste,  Money waste,-0.2,Negative,-0.4215,Neutral
+210,I'd love to go back.,  love go back,0.25,Positive,0.6369,Positive
+211,wonderful meals including snacks,  wonderful meal include snack,1.0,Positive,0.5719,Positive
+212,Nothing special.,  Nothing special,0.35714285714285715,Positive,-0.3089,Neutral
+213,Each day of the week they have a different deal and it's all so delicious!,  day week different deal delicious,0.5,Positive,0.5719,Positive
+214,Not to mention all combos sucks ,  mention combo suck,0.0,Neutral,-0.4404,Neutral
+215,Will not be back.,  back,0.0,Neutral,0.0,Neutral
+216,Sauce was tasteless.,  Sauce tasteless,-0.6,Negative,0.0,Neutral
+217,"The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way.",  food delicious spicy enough sure ask spicy prefer way,0.5,Positive,0.7184,Positive
+218,what is this food worst,  food worst,-1.0,Negative,-0.6249,Negative
+219,I don't think we'll be going back anytime soon.,  think go back anytime soon,0.0,Neutral,0.0,Neutral
+220,Food was so gooodd.,  Food gooodd,0.0,Neutral,0.0,Neutral
+221,much better,  much good,0.7,Positive,0.4404,Neutral
+222,I was so insulted.,  insulted,0.0,Neutral,-0.5106,Negative
+223,The last 3 times I had lunch here has been bad.,  last time lunch bad,-0.3499999999999999,Negative,-0.5423,Negative
+224,The chicken wings contained the driest chicken meat I have ever eaten.,  chicken wing contain dry chicken meat ever eat,-0.4222222222222222,Negative,0.0,Neutral
+225,The food was very good and I enjoyed every mouthful,  food good enjoy every mouthful,0.55,Positive,0.7269,Positive
+226,WASTE tasteless,  WASTE tasteless,-0.4,Negative,-0.5473,Negative
+227,Best curries,  Best curry,1.0,Positive,0.6369,Positive
+228,We loved the place.,  love place,0.5,Positive,0.6369,Positive
+229,Definitely not worth it,  Definitely worth,0.3,Positive,0.5574,Positive
+230,The vanilla ice cream was creamy on sundays,  vanilla ice cream creamy sunday,0.0,Neutral,0.0,Neutral
+231,i want to spit out,  want spit,0.0,Neutral,0.0772,Neutral
+232,The inside is really quite nice and very clean.,  inside really quite nice clean,0.3888888888888889,Positive,0.7659,Positive
+233,management is okay,  management okay,0.5,Positive,0.2263,Neutral
+234,The food was outstanding and the prices were very reasonable.,  food outstanding price reasonable,0.35,Positive,0.6124,Positive
+235,I hate this food,  hate food,-0.8,Negative,-0.5719,Negative
+236,"This is was due to the fact that it took 20 minutes to be acknowledged, then another 35 minutes to get our food...and they kept forgetting things.",  due fact take minute acknowledge another minute get food keep forget thing,-0.125,Negative,-0.2263,Neutral
+237,"Love the desserts, too!",  Love dessert,0.5,Positive,0.6369,Positive
+238,This was my first and only mess and it did not disappoint.,  first mess disappoint,0.037500000000000006,Positive,-0.6369,Negative
+239,"Very good, though!",  good though,0.7,Positive,0.4404,Neutral
+240,The one down note is the ventilation could use some upgrading.,  one note ventilation could use upgrading,0.0,Neutral,0.0,Neutral
+241,no sandwichesor pizza,  sandwichesor pizza,0.0,Neutral,0.0,Neutral
+242,Don't waste your time here.,  waste time,-0.2,Negative,-0.4215,Neutral
+243,Total letdown.,  Total letdown,0.0,Neutral,0.0,Neutral
+244,sometimes food is served  cold.,  sometimes food serve cold,-0.6,Negative,0.0,Neutral
+245,We enjoy the meals everyday,  enjoy meal everyday,0.1,Positive,0.4939,Neutral
+246,okay noice food well cooked,  okay noice food well cook,0.5,Positive,0.4588,Neutral
+247,We had a group and they handled us beautifully.,  group handle us beautifully,0.85,Positive,0.5719,Positive
+248,I LOVED it!,  LOVED,0.7,Positive,0.5994,Positive
+249,nice mood good food.,  nice mood good food,0.6499999999999999,Positive,0.6908,Positive
+250,nice management,  nice management,0.6,Positive,0.4215,Neutral
+251,Owner's are really great people.!,  Owner really great people,0.8,Positive,0.659,Positive
+252,There is nothing privileged about working/eating there.,  nothing privilege work eating,0.0,Neutral,-0.2755,Neutral
+253,Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.,  Based sub par service receive effort show gratitude business go back,0.0,Neutral,0.5106,Positive
+254,"Overall, I don't think this is good mess",  Overall think good mess,0.17499999999999996,Positive,0.1027,Neutral
+255,Nice food good and tasty,  Nice food good tasty,0.6499999999999999,Positive,0.6908,Positive
+256, the service was pretty fast.,  service pretty fast,0.225,Positive,0.4939,Neutral
+257,Fantastic service here.,  Fantastic service,0.4,Positive,0.5574,Positive
+258,I as well would've given godfathers zero stars if possible.,  well would give godfather zero star possible,0.0,Neutral,0.2732,Neutral
+259,They know how to make them here.,  know make,0.0,Neutral,0.0,Neutral
+260,very tough and very short on flavor!,  tough short flavor,-0.19444444444444445,Negative,-0.128,Neutral
+261,I hope this place sticks around.,  hope place stick around,0.0,Neutral,0.4404,Neutral
+262,I paid to get good food but it sucks here,  pay get good food suck,0.7,Positive,-0.1027,Neutral
+263,The mess atmosphere was exquisite.,  mess atmosphere exquisite,0.4125,Positive,-0.3612,Neutral
+264,"Good service, very clean, and inexpensive, to boot!",  Good service clean inexpensive boot,0.5333333333333333,Positive,0.6808,Positive
+265,The food was fresh and generous in portion.,  food fresh generous portion,0.3,Positive,0.6808,Positive
+266,money waste for the worst food and service here,  money waste bad food service,-0.44999999999999996,Negative,-0.743,Negative
+267,"The service was not up to par, either.",  service par either,0.0,Neutral,0.0,Neutral
+268,I was wildly disappointed.,  wildly disappointed,-0.75,Negative,-0.4767,Neutral
+269,Just as good as home food,  good home food,0.7,Positive,0.4404,Neutral
+270,"For a self proclaimed meals, I was utterly disappointed.",  self proclaim meal utterly disappointed,-0.75,Negative,-0.5256,Negative
+271,The Veggitarian platter is out of this world!,  Veggitarian platter world,0.0,Neutral,0.0,Neutral
+272,You cant go wrong with any of the food here.,  cant go wrong food,-0.5,Negative,0.3724,Neutral
+273,You can't beat that.,  beat,0.0,Neutral,0.0,Neutral
+274," very friendly, kind staff.",  friendly kind staff,0.4875,Positive,0.765,Positive
+275,The chefs were friendly and did a good job.,  chef friendly good job,0.5375,Positive,0.7269,Positive
+276,I want better food,  want good food,0.7,Positive,0.4939,Neutral
+277,I liked the food and the service was outstanding.,  like food service outstanding,0.5,Positive,0.7579,Positive
+278,wow what FLAVOR!,  wow FLAVOR,0.1,Positive,0.5859,Positive
+279,I think not again,  think,0.0,Neutral,0.0,Neutral
+280,food was pretty bland so I will not be getting that again.,  food pretty bland get,0.04166666666666667,Positive,0.4939,Neutral
+281,I  was so  disappointed.,  disappointed,-0.75,Negative,-0.4767,Neutral
+282,Service stinks here!,  Service stink,0.0,Neutral,-0.4019,Neutral
+283,I waited and waited.,  wait wait,0.0,Neutral,0.0,Neutral
+284, it is not a quality mess.,  quality mess,-0.175,Negative,-0.3612,Neutral
+285,I would definitely recommend the wings ,  would definitely recommend wing,0.0,Neutral,0.6369,Positive
+286,Plis include Salads!,  Plis include Salads,0.0,Neutral,0.0,Neutral
+287,Things that went wrong: - They burned the food,  Things go wrong burn food,-0.5,Negative,-0.4767,Neutral
+288,We waited an hour for what was a breakfast I could have done 100 times better at home.,  wait hour breakfast could do time well home,0.0,Neutral,0.2732,Neutral
+289,This place is amazing!,  place amaze,0.0,Neutral,0.5423,Positive
+290,I hate this mess,  hate mess,-0.48750000000000004,Negative,-0.7351,Negative
+291,Waited 2 hours still wasn't served meals,  Waited hour still serve meal,0.0,Neutral,0.0,Neutral
+292,Just don't know why they were so slow.,  know slow,-0.30000000000000004,Negative,0.0,Neutral
+293,"The staff is great, the food is delish, and they have an incredible beer selection.",  staff great food delish incredible beer selection,0.8500000000000001,Positive,0.6249,Positive
+294,I live ihere so I am disappointed I won't be back here but i have no option,  live ihere disappointed back option,-0.20454545454545456,Negative,-0.4767,Neutral
+295, soooo delicious.,  soooo delicious,1.0,Positive,0.5719,Positive
+296,"You get incredibly fresh fish, prepared with care.",  get incredibly fresh fish prepare care,0.3,Positive,0.6997,Positive
+297,i hate this place,  hate place,-0.8,Negative,-0.5719,Negative
+298,I love the fact that everything on their menu is worth it.,  love fact everything menu worth,0.4,Positive,0.7269,Positive
+299,Never again will I be dining at this place!,  Never din place,0.0,Neutral,0.0,Neutral
+300,The food was excellent and service was very good.,  food excellent service good,0.85,Positive,0.765,Positive
+301,good food selection.,  good food selection,0.7,Positive,0.4404,Neutral
+302,Food was really boring.,  Food really boring,-1.0,Negative,-0.3804,Neutral
+303,Good Service-check!,  Good Service check,0.7,Positive,0.4404,Neutral
